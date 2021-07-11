@@ -1,12 +1,14 @@
 # UFOs
 ## Overview 
-Explain the purpose of this analysis.
-*link to app.py here
+This project compoiles data from different UFO sightings in the United STatess and presents the results on one webpage using Javascript, HTML and CSS. \
+[app.js](https://github.com/juliacho22/UFOs/blob/main/Static/Javascript/app.js). 
 
 ## Results 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+A website user will be able to filter through the data by date, city, country or shape of UFO by using the filter search on the left side of thw esbite. This way, one could easily scroll through one table to see all the different types of UFO encounters based on their categories. \
 *link to website photo here
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Although the website gives a user-friendly overview of all UFO sightings in the United States, there is no way to add additional live data; the information will not update unless there is a manual update.
+I would recommend adding a live data update functionality to make the website more prevalent for UFO enthusiasts. Additionally, adding a way to filter based on comments or buzzwords might be helpful as well. 
+
 
